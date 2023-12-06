@@ -1,4 +1,4 @@
-# uber-driver-lifetime-value
+# Uber Driver Lifetime Value
 Lifetime value (LTV) represents the total revenue a business expects to earn from a customer throughout their entire relationship with the company. In math terms, it can be defined by:
 
 *LTV = (Average Revenue per Customer per Day × Average Lifespan) − Cost of Acquisition*
